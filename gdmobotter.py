@@ -25,4 +25,5 @@ try:
 except KeyboardInterrupt:
     print("Gestoppt.")
 
-# bot von warsay dem boss1
+# bot von m0nky
+
