@@ -1,2 +1,2 @@
 # some_stuff
-not yet defined lol
+not defined lol
